@@ -71,11 +71,11 @@
             </div>
                 
             @empty
+                <p>Data not found.</p>
                 
             @endforelse
         </div>
     </div>
-
 
 </body>
 </html>
