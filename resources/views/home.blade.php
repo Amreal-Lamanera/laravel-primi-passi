@@ -19,6 +19,7 @@
         }
         h1 {
             text-align: center;
+            padding-top: 1rem;
             margin-bottom: 3rem;
         }
         
